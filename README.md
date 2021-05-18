@@ -1,20 +1,20 @@
-#Torpedó
+# Torpedó
 
-##Programterv
+## Programterv
 
 Ez a projekt a klasszikus torpedó játék megvalósítása. 
 
-##Felhasznált technológiák
+## Felhasznált technológiák
 
 - HTML
 - CSS
 - JavaScript (Vanilla)
 
-##Telepítés
+## Telepítés
 
 Aprogram használatához csak egy böngészőre van szükség.
 
-##Érdekesebb megoldások
+## Érdekesebb megoldások
 
 ```javascript
 function hello(){
